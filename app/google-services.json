@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "583325758336",
+    "firebase_url": "https://paintingapp-3328f.firebaseio.com",
+    "project_id": "paintingapp-3328f",
+    "storage_bucket": "paintingapp-3328f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583325758336:android:563c5e93fbff5ca8",
+        "android_client_info": {
+          "package_name": "com.example.omistaja.paintingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583325758336-9egt4pd8icc1hctqgq689mjbt2tratjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omistaja.paintingapp",
+            "certificate_hash": "c2823d8b5d3f19b2b1fb0b018dd6da7e3f146ca2"
+          }
+        },
+        {
+          "client_id": "583325758336-tofdrgufuf288j8nthkla1njkmkk2ein.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "583325758336-tofdrgufuf288j8nthkla1njkmkk2ein.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX_Lrbh9gBL1pxtOGDjOmFgx344aWeoMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583325758336-tofdrgufuf288j8nthkla1njkmkk2ein.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
